@@ -1,0 +1,78 @@
+body{
+     color: #333333;
+   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+img {
+   height:10% ;
+   width:5% ;
+}
+
+header{ 
+
+}
+nav ul{
+   
+   padding:0%;
+   list-style-type:none;
+   width: 3%;
+   display: flex;
+   flex-direction:row;
+   justify-content:space-between;
+   font-size: 14px;
+   padding-right: 35px;
+   text-align: right;
+   width: 140px;
+   
+   
+}
+nav ul li a{
+   
+   color: red;
+margin: 0%; 
+ border:2px solid black ;
+position:space-around;
+list-style-type: none;
+text-align: center;
+  
+}
+nav ul li a:hover {
+   cursor:pointer;
+   color: black;
+   border-top:2px solid black;
+   
+   
+}
+.menu-opcoes ul {
+   font-size: 15px;
+   }
+   
+
+   
+      
+  #baixo{
+    background-color:blue;
+     text-align: center;
+     border: 0.2px solid red;
+   
+padding-top:40px;
+margin: 0% auto;
+      }
+      #Rodape{
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: white;
+   background-color:black;
+  font-size: 32px;
+  padding:0%;
+  margin: 0%;
+  
+      }
+      aside{
+
+      }
+      
+   
+      
+    
+
