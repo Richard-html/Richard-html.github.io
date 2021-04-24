@@ -8,9 +8,7 @@ img {
    width:5% ;
 }
 
-header{ 
 
-}
 nav ul{
    
    padding:0%;
@@ -34,12 +32,13 @@ margin: 0%;
 position:space-around;
 list-style-type: none;
 text-align: center;
+display: flex;
   
 }
 nav ul li a:hover {
    cursor:pointer;
    color: black;
-   border-top:2px solid black;
+   border-top:  black 2px dashed;
    
    
 }
@@ -66,11 +65,32 @@ margin: 0% auto;
   font-size: 32px;
   padding:0%;
   margin: 0%;
-  
-      }
-      aside{
+ }
+ h3{ text-align: center;
+   animation: jornal 3s ease-out infinite;
+ }
+ @keyframes jornal{
+    0%{
+       color: black
+    }
+    25%{
+       color:yellow;
+    }
+    50%{
+       color: green;
+    }
+    75%{
+       color:yellow ;
+    }
+    100%{
+       color: black;
+    }
+   }
+   icon{
 
-      }
+   }
+ 
+      
       
    
       
