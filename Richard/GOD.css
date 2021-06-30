@@ -1,0 +1,85 @@
+body{
+    margin: 0%;
+    background-color:#846CE6 #385FEB #112B36;     
+}
+html{
+    background: url("./Kratos.jpg") no-repeat center center fixed;
+    background-size:cover;
+}
+    
+
+#Story{
+    text-align: center;
+}
+#God{
+    text-align: center;
+    height: 100%;
+    
+    
+}
+
+#God3{
+    text-align:center;
+    
+}
+#Deuses{
+    text-align:center;
+    height: 100%;
+    background-size: contain;
+    
+}
+#GOD3{
+    height:10%;
+}
+#Hades{
+    padding: 45px 60px;
+    height: 200%;
+    background-size: contain;
+    
+}
+
+
+#Titas{
+    text-align: center;
+    height: 100%;
+    background-size: cover;
+}
+#God4{
+    text-align:center;
+    height: 100%;
+    background-size: contain;
+}
+
+
+ 
+ nav{
+    display: block;
+padding: 2px 2px 2px 0.5em;
+font-weight:bold;
+border-left: 5px solid white;
+border-right: 5px solid white;
+background-color:red;
+color: #808000;
+text-decoration: none;
+
+
+ }
+ .Centralizar{
+     text-align: center;
+ }
+.Tamanho{
+ width: 200px;
+ 
+}
+#Quebra{
+    display:inline-block ;
+}
+ nav a:hover {
+border-right: 10px solid red;
+background-color: white;
+color: red;
+    
+ }
+ h1{
+     color: white;
+ }
